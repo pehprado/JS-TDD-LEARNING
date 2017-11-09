@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-learning",
+  "version": "1.0.0",
+  "description": "JS with TDD course's library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pehprado/JS-TDD-LEARNING.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Pedro H. Prado Oliveira <pedro.pradoliveira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pehprado/JS-TDD-LEARNING/issues"
+  },
+  "homepage": "https://github.com/pehprado/JS-TDD-LEARNING#readme"
+}
